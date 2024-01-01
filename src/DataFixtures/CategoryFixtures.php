@@ -12,6 +12,6 @@ class CategoryFixtures extends Fixture
         $category = new Category();
         // $manager->persist($product);
 
-        $manager->flush();
+        $manager->flush(); 
     }
 }
