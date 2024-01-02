@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "@symfony/webpack-encore": "github:symfony/webpack-encore",
     "bootstrap": "^5.3.2"
   }
 }
